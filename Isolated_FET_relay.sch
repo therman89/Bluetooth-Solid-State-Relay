@@ -246,7 +246,7 @@ F 1 "CONN_01X03" V 10250 3775 50  0000 C CNN
 F 2 "Connect:AK300-3" H 10150 3775 50  0001 C CNN
 F 3 "" H 10150 3775 50  0000 C CNN
 	1    10150 3775
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Text Label 2600 3350 0    60   ~ 0
 DBG_RESET
